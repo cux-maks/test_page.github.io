@@ -1,3 +1,3 @@
-function move(str){
-    location.replace(str)
+function move(){
+    location.href = "./newYour.html"
 }
